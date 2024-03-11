@@ -9,7 +9,8 @@ There is a full guide to setup "Nintendo Anime Channel" with your owns videos, p
 
 Important things:
 
-Anime Channel support only the .moflex videos, to convert an mp4 video to moflex video, use the mobiclip tool in the "mobiclip" folder.
+Anime Channel support only the .moflex videos, to convert an mp4 video to moflex video, use the mobiclip tool, to download it, 
+click on this link: https://cdn.discordapp.com/attachments/1215580196585873408/1216000927765500036/Mobiclip.zip?ex=65fecc1d&is=65ec571d&hm=20a6da2b3513f2e0315f384f017bcda4375dac7faae033fcdd3ff4c4f09dfe96&
 
 Anime Channel support only the .3dst pictures, to convert any picture to 3dst file, we use an tool on GitHub, follow the guide on github plz:
 https://github.com/DaniElectra/3DSTTool (guide link)
