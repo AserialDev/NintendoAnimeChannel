@@ -1,0 +1,45 @@
+
+2024 AstendoProject - By AserialDev
+github: https://github.com/AserialDev
+
+I know everyone know this but to do this anime channel server, you need an 2ds/3ds jailbreak with luma3ds.
+
+
+There is a full guide to setup "Nintendo Anime Channel" with your owns videos, pictures...
+
+Important things:
+
+Anime Channel support only the .moflex videos, to convert an mp4 video to moflex video, use the mobiclip tool in the "mobiclip" folder.
+
+Anime Channel support only the .3dst pictures, to convert any picture to 3dst file, we use an tool on GitHub, follow the guide on github plz:
+https://github.com/DaniElectra/3DSTTool (guide link)
+https://github.com/DaniElectra/3DSTTool/releases/tag/v0.3.0 (download link)
+
+----------------------------------------------------------------------------------------------------------------------------------------------------
+
+After seen that, launch "start.py" (you need to have Python)
+
+after you launch it, put the IPV4 Adress of the computer with the moflex and 3dst files,
+
+After that, put the port 8000, and an url will be present, open it in your browser, and navigate in your computer files, and do an right click
+on the moflex or 3dst file, and copy the adress.
+
+And in your "debugcatalog", put all the links that you want, it's easy to use don't worry!
+
+what is debugcatalog? 
+- It's the catalog of your Anime Channel server, here is the path: \luma\titles\0004000000141200\romfs\bootapp\resources\scripts\content\debugcatalog.lua
+
+When you finish to config the catalog and all, put the folder "luma" in the root of your sd card. 
+
+That's all, don't forgot to follow on Github!
+
+
+Sources: 
+
+start.py : Made by AserialDev (github.com/AserialDev)
+mobiclip: Nintendo
+3dst tool: github.com/DaniElectra
+
+
+
+
